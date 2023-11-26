@@ -1,4 +1,4 @@
-# **MiKASA**: **M**ult**i**-**K**ey-**A**nchor & **S**cene-**A**ware Transformer <br> for 3D Visual Grounding
+# **MiKASA**: **M**ult**i**-**K**ey-**A**nchor & **S**cene-**A**ware Transformer for 3D Visual Grounding
 ## *[CVPR 24]* *[Papaer ID:11446]*
 ## News
 - 🚩 As of the time of this submission, our model has established a new state-of-the-art benchmark in the [ReferIt3D challenge](https://referit3d.github.io/benchmarks.html), achieving top performance across all categories in both the Nr3D and Sr3D datasets. These benchmarks will be updated following the publication of our paper. 
